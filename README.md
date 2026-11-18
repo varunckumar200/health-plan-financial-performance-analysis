@@ -11,6 +11,22 @@ The report contains two pages:
 
 This is an educational portfolio project. It is not based on actual insurer, provider, member, or CMS data and is not intended for production pricing, reserving, or forecasting.
 
+
+## **Dashboard Preview**
+
+### Executive Summary
+
+![Executive Summary Dashboard](images/project1-dashboard.png)
+
+### Methodology & Limitations
+
+![Methodology and Limitations Report](images/project1-analysis.png)
+
+### Data Quality Checks
+
+![Power Query Data Quality Checks](images/project1-data-quality.png)
+
+
 ## **Project files**
 
 * `Health_Plan_Financial_Performance_Analysis.pbix` — Power BI report.  
